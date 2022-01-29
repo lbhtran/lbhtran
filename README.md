@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineer
 - 🌱 I’m currently learning vim
 - 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me: create a pull request on my talk_to_me project
+- 📫 How to reach me: create a pull request on this repo
 
 <!---
 lbhtran/lbhtran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
