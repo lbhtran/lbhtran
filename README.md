@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lbhtran
 - 👀 I’m interested in Data Engineer and Python Development
-- 🌱 I’m currently learning vim
+- 🌱 I’m currently learning vim, rust
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: create a pull request on this repo
 
